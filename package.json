@@ -10,17 +10,24 @@
     "format": "biome format --write"
   },
   "dependencies": {
+    "motion": "^12.23.12",
+    "next": "15.5.3",
+    "next-persian-fonts": "^1.0.0",
+    "prop-types": "^15.8.1",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "next": "15.5.3"
+    "react-icons": "^5.5.0",
+    "react-vertical-timeline-component": "^3.5.3",
+    "resend": "^6.1.0"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@biomejs/biome": "2.2.0",
+    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
+    "@types/react-vertical-timeline-component": "^3.3.6",
     "tailwindcss": "^4",
-    "@biomejs/biome": "2.2.0"
+    "typescript": "^5"
   }
 }

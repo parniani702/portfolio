@@ -23,5 +23,12 @@ To run this portfolio locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/parniani702/portfolio.git
+
+2. Install Deps
+   ```bash
+   npm i
+3. Run App
+   ```bash
+   npm run dev
 # portfolio

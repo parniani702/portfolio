@@ -49,12 +49,14 @@ export default function Contact() {
           required
           maxLength={300}
           name="email"
+          placeholder="example@example.com"
         />
         <textarea
           required
           maxLength={500}
           className="h-52 my-3 rounded-lg border border-black/10 p-4"
           name="message"
+          placeholder="Your Message"
         />
         <button
           className="h-[3rem] w-[8rem] bg-gray-900 text-white rounded-full outline-none transition flex items-center gap-3 justify-center group cursor-pointer hover:scale-105"

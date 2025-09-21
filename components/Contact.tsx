@@ -29,7 +29,7 @@ export default function Contact() {
         animate={{ scale: 1 }}
         className="font-medium text-3xl my-10"
       >
-        My Skills
+        Contact Me
       </motion.h1>
       <p className="text-gray-700 w-[20rem] sm:w-auto">
         Please contact me directly at{" "}

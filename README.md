@@ -13,7 +13,6 @@ A personal portfolio built with **Next.js** and **Tailwind CSS**, showcasing my 
 ## Projects
 
 1. **Project One** – Live demo available via clickable link  
-2. **Project Two** – Live demo available via clickable link  
 
 *(Click on any project to open the live version.)*
 
